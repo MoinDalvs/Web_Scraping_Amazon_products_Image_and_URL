@@ -1,5 +1,6 @@
-# Recommendation_System_Amazon_products
-## E-commerce companies use recommendation systems to provide suggestions to the customers. They use item-item collaborative filtering, which scales to massive datasets and produces high quality recommendation systems in the real time. This system is a kind of an information filtering system which seeks to predict the "rating" or preferences which user is interested in.
+# Web Scraping Amazon Product and Image URL
+## Recommendation_System_Amazon_products
+### E-commerce companies use recommendation systems to provide suggestions to the customers. They use item-item collaborative filtering, which scales to massive datasets and produces high quality recommendation systems in the real time. This system is a kind of an information filtering system which seeks to predict the "rating" or preferences which user is interested in.
 
 ### Attribute Information:
 ● **userId :** Every user identified with a unique id
